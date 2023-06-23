@@ -1,0 +1,9 @@
+Name: Trent Hollenkamp-Geragosian
+Project: Project 4
+Date: 4/4/2023
+
+
+Usage: ./oss [-h] -f logfile
+There are no default options
+
+Some issues: For some reason the last vestiges of processes wont empty out and will cause the timer to be reached. Couldn't quite figure out how to fix this.
